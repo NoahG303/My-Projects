@@ -1,8 +1,3 @@
-#clean
-#site
-#expand to other ppl
-#big concept? notifs (water/musicMar/class)? mar?
-
 import datetime
 
 info = datetime.datetime.now()
